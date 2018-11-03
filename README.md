@@ -1,24 +1,3 @@
-# README
+# Human-Computer Interaction
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A project I worked on with Saahil Hamayun and Albert Ma for ECSE 424 - Human Computer Interaction at McGill University. The project aimed to help better facilitate question-asking in large auditorium-style lectures at McGill University. The website is currently not active.
